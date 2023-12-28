@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: What Nosologic is all about
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nosologic is a foundation based in Amsterdam, the Netherlands. It focuses on Evolutionary Health Geography, a term we coined ourselves. Here's what we mean by it: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- We investigate states of health and disease 
+- We look at the spatial distribution of these states at different levels of scale.
+- We want to understand the causes of these distributions.
+- Some of these causes lie in the distant past: these we call ultimate causes.
+- In order to find them, we have to study the historical ecologies of past populations.
+- Knowing these ultimate causes helps explain a patient's susceptibility to factors in their environment.   
+- This helps us predict the risk of developing certain pathologies.
+    
